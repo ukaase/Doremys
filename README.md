@@ -1,6 +1,6 @@
 <h3>👨🏽‍🚀 About me</h3>
 
-<img src="https://i.imgur.com/X2inMZH.gif" min-width="200px" max-width="240px" width="200px" align="right" alt="Computador">
+<img src="http://pa1.narvii.com/6909/c92d8f3b7babc938ab6686671f207a33c56e3e35r1-500-719_00.gif" min-width="200px" max-width="240px" width="200px" align="right" alt="Computador">
 
                     Hi, I'm Breno Brandão, a Developer from Brazil
 
