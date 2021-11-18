@@ -4,7 +4,7 @@
 
                     Hi, I'm Breno Brandão, a Developer from Brazil
 
-"In heaven, all the interesting people are missing."
+"If the only tool you have is a hammer, you tend to see every problem as a nail."
 
 ✨ - I’m currently learning: Tensorflow.JS.
 
