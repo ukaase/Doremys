@@ -6,7 +6,7 @@
 
 "If the only tool you have is a hammer, you tend to see every problem as a nail."
 
-✨ - I’m currently learning: Tensorflow.JS.
+✨ - I’m currently learning: Ruby on rails.
 
 🔭 - Working on personal projects.
 
