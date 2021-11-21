@@ -26,6 +26,7 @@
   ![styled-components](https://img.shields.io/badge/-styled--components-333333?style=flat&logo=styled-components) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![NextJS](https://img.shields.io/badge/-Next.JS-333333?style=flat&logo=Next.JS)
+  ![Chakra](https://img.shields.io/badge/-Chakra-333333?style=flat&logo=chakraui)
   ![NodeJS](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=Node.JS)
   
   **Database**
@@ -66,6 +67,7 @@
 
 [![Twitter:ukasebjj](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white&link=https://twitter.com/ukasebjj)](#)
 [![Twitch:ukaase](https://img.shields.io/badge/-Twitch-9146FF?style=flat&labelColor=9146FF&logo=twitch&logoColor=white&link=https://www.twitch.tv/ukaase)](#)
+[![Instagram:_brenoobjj](https://img.shields.io/badge/-Instagram-DF0174?style=flat&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_brenoobjj/)](#)
 [![Discord:SEU NOME](https://img.shields.io/badge/-Discord-7389D8?style=flat&labelColor=7389D8&logo=discord&logoColor=white&link=LINK-DO-SEU-INSTAGRAM)](https://discord.gg/kkx4mt5yuk)
   
 
