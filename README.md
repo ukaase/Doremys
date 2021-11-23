@@ -4,7 +4,7 @@
 
                     Hi, I'm Breno Brandão, a Developer from Brazil
 
-"If the only tool you have is a hammer, you tend to see every problem as a nail."
+"All the effort is pointless if you dont believe in yourself."
 
 ✨ - I’m currently learning: Ruby on Rails.
 
